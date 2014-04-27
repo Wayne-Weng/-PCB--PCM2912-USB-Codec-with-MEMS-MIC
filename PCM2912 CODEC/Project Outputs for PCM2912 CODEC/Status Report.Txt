@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCM2912 CODEC.PrjPcb]
+   Generated File[PCM2912_CODEC_PANEL-RoundHoles.TXT]
+   Generated File[PCM2912_CODEC_PANEL-SlotHoles.TXT]
+   Generated File[PCM2912_CODEC_PANEL.LDP]
+   Generated File[PCM2912_CODEC_PANEL.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At ¤U¤È 05:07:59 On 2014/4/21

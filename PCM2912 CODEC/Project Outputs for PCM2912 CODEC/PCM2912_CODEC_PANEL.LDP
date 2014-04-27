@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\CYAC-Acade\Desktop\PCM2912 CODEC\PCM2912_CODEC_PANEL.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcm2912_codec_panel-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcm2912_codec_panel-slotholes.txt|LayerPairs=gtl,gbl
